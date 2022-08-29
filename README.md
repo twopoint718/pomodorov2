@@ -19,3 +19,7 @@ The project repository (you're looking at it) is laid out at a high level like:
 - `firmware` the software running on the board, any needed bootstrapping code, and support scripts
 - `hardware` the [KiCAD](https://www.kicad.org/) schematic and board layout
 - `production` files needed to manufacture the board, [BOM](https://en.wikipedia.org/wiki/Bill_of_materials), gerbers & etc.
+
+## Prototype board
+
+- Using [Adafruit NRF52840 Feather Sense](https://www.adafruit.com/product/4516)
