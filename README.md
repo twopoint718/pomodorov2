@@ -1,4 +1,4 @@
-# Pomodoro Mark II
+# Pomodoro Mark II "Otter" 🦦
 
 Orientation-sensitive desktop timer (mark II).
 Codename "Otter" (because they're cute & cuddly, hard-working, and like to roll over).
